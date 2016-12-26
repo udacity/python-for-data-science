@@ -7,6 +7,7 @@
 - [Python | Codecademy](https://www.codecademy.com/learn/python) 英文课程，边写边学。
 - [Introduction to Computer Science and Programming Using Python | edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 MIT经典计算机科学入门课程，1月开课，可以跟学！
+- [CS231n Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) 针对英文基础较好，有其它编程语言经验，可以在这里快速入门python
 - [Intro to Computer Science | Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101) Udacity经典的计算机科学入门，课程讲解十分详细，中间还穿插了计算机科学发展史当中很多有趣的小故事
 - [Intro to Python Programming Course | Udacity](https://cn.udacity.com/course/programming-foundations-with-python--ud036) Udacity经典课程，通过生动的讲解让你理解什么是python面向对象的特性
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) 一本经典的免费在线书籍
@@ -23,6 +24,6 @@ MIT经典计算机科学入门课程，1月开课，可以跟学！
 
 ### App
 
-[Learn Python Pro](https://itunes.apple.com/us/app/learn-python-pro/id953972812?mt=8)
+- [Learn Python Pro](https://itunes.apple.com/us/app/learn-python-pro/id953972812?mt=8)
 
 注：排名不分先后。

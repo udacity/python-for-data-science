@@ -8,6 +8,8 @@
 - [Introduction to Computer Science and Programming Using Python | edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 MIT经典计算机科学入门课程，1月开课，可以跟学！
 - [CS231n Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) 针对英文基础较好，有其它编程语言经验，可以在这里快速入门python
+- [DataCamp Learning Python](https://www.datacamp.com/)
+- [PythonLearn](http://www.pythonlearn.com/)
 - [Intro to Computer Science | Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101) Udacity经典的计算机科学入门，课程讲解十分详细，中间还穿插了计算机科学发展史当中很多有趣的小故事
 - [Intro to Python Programming Course | Udacity](https://cn.udacity.com/course/programming-foundations-with-python--ud036) Udacity经典课程，通过生动的讲解让你理解什么是python面向对象的特性
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) 一本经典的免费在线书籍
@@ -18,6 +20,7 @@ MIT经典计算机科学入门课程，1月开课，可以跟学！
 ### 书籍
 
 - [Python核心编程（第二版）](https://book.douban.com/subject/3112503/)
+- [Python for Data Analysis](https://book.douban.com/subject/25779298/)
 
 
 学习一门编程语言与学习计算机科学并不相同，但都要求大家多动手。如果有问题，可以去Udacity[中文论坛](http://discussions.youdaxue.com/c/standalone-courses)提问。此外，Udacity自己也有一个学习python的[主页](https://www.udacity.com/learn/python)，上面也罗列了一些资源。
@@ -25,5 +28,9 @@ MIT经典计算机科学入门课程，1月开课，可以跟学！
 ### App
 
 - [Learn Python Pro](https://itunes.apple.com/us/app/learn-python-pro/id953972812?mt=8)
+
+### Debug
+
+- [Python Tutor](http://www.pythontutor.com/visualize.html) 很好的在线debug代码工具。
 
 注：排名不分先后。

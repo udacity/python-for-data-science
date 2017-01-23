@@ -4,6 +4,7 @@
 
 ### 在线资源
 
+- [LearnPython.org interactive Python tutorial](http://www.learnpython.org/)
 - [Python | Codecademy](https://www.codecademy.com/learn/python) 英文课程，边写边学。
 - [Introduction to Computer Science and Programming Using Python | edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 MIT经典计算机科学入门课程，1月开课，可以跟学！
